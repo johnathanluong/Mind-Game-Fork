@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6207f2aefa281be4186e35c15a1874f4, type: 3}
+  m_Name: GaryTutorial2
+  m_EditorClassIdentifier: 
+  played: 0
+  inkJSON: {fileID: 4900000, guid: be5bc9ed3418b2b44acc2b2278d71f3f, type: 3}

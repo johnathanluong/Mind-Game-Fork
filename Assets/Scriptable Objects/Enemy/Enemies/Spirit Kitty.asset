@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587faf2a6be6f62418a5342c86a3ac2e, type: 3}
+  m_Name: Spirit Kitty
+  m_EditorClassIdentifier: 
+  EnemyName: Spirit Kitty
+  description: HE HAS A TOP HAT.... oh he flies too.
+  battleSprite: {fileID: 349101156, guid: beab0dcf4e8886f4982dc4f1627356a5, type: 3}
+  weaknesss: 3
+  resist: 2
+  baseHP: 20
+  curHP: 0
+  baseAttack: 12
+  baseDefense: 5
+  baseSpeed: 7
+  xpGiven: 11
+  moneyGiven: 3
+  moves:
+  - {fileID: 11400000, guid: 032cdb341f85c7d4cb065ca291787298, type: 2}
+  - {fileID: 11400000, guid: 032cdb341f85c7d4cb065ca291787298, type: 2}
+  - {fileID: 11400000, guid: bf4f7e044689b8d43bca89a50c455721, type: 2}
+  - {fileID: 11400000, guid: bf4f7e044689b8d43bca89a50c455721, type: 2}
+  - {fileID: 11400000, guid: 6de6e4c43ff82904d887f57a30c73bf5, type: 2}

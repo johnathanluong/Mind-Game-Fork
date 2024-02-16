@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587faf2a6be6f62418a5342c86a3ac2e, type: 3}
+  m_Name: JJ
+  m_EditorClassIdentifier: 
+  EnemyName: JJ
+  description: Used for intro and mini boss. Pretty much same stuff  ut make his
+    level like 1 level higher for mini boss fight
+  battleSprite: {fileID: 876410740, guid: 37f1cf2b5eb05e445b292e9b63297aae, type: 3}
+  weaknesss: 2
+  resist: 1
+  baseHP: 400
+  curHP: 0
+  baseAttack: 15
+  baseDefense: 12
+  baseSpeed: 10
+  xpGiven: 100
+  moneyGiven: 100
+  moves:
+  - {fileID: 11400000, guid: e2a89d2f7a5c9cb4f9b86dca3c29991a, type: 2}
+  - {fileID: 11400000, guid: a5d10c293f770c041aac95bef913ff62, type: 2}
+  - {fileID: 11400000, guid: b4b0c6d0fb7b0cc4bb1dea862134e101, type: 2}
+  - {fileID: 11400000, guid: 70856f2164379414e88dcc1a03b1dee4, type: 2}
+  - {fileID: 11400000, guid: 3f54ec86fae20bc4a921fd6a4ad1dffb, type: 2}
+  - {fileID: 11400000, guid: a5d10c293f770c041aac95bef913ff62, type: 2}
+  - {fileID: 11400000, guid: 71220aca34f75774694ea2b9f28011be, type: 2}

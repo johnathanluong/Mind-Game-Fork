@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LPreset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 77d95202fdc230d43a9a0983e62748ca, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MemberName
+    value: L
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: portrait
+    value: 
+    objectReference: {fileID: -1345570686, guid: 4e272dd490e42e54ea8022b4f1bc01a5, type: 3}
+  - target: {fileID: 0}
+    propertyPath: battleSprite
+    value: 
+    objectReference: {fileID: -1704509566, guid: 0cf718d8389581d4d8766f34a759273c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: battleSprite2
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: battleSprite3
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: level
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: xp
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxHP
+    value: 90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: curHP
+    value: 90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxMP
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: curMP
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: attack
+    value: 18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: defense
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: speed
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weapon
+    value: 
+    objectReference: {fileID: 11400000, guid: 745cbd2605703544ba39e6edc751c16b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: armor
+    value: 
+    objectReference: {fileID: 11400000, guid: 4f7a29e05117c1643b5320cea6a4d294, type: 2}
+  - target: {fileID: 0}
+    propertyPath: learnableMoves.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: learnableMoves.Array.data[0].moveBase
+    value: 
+    objectReference: {fileID: 11400000, guid: 608bb397a23932d479c6616660971588, type: 2}
+  - target: {fileID: 0}
+    propertyPath: learnableMoves.Array.data[0].memory
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[0].moveBase
+    value: 
+    objectReference: {fileID: 11400000, guid: 624f8c16ab8daeb4cbd5c31257394cc0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[0].memory
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[1].moveBase
+    value: 
+    objectReference: {fileID: 11400000, guid: 81f59e2dda3da804682a18d436eb9bd1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[1].memory
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[2].moveBase
+    value: 
+    objectReference: {fileID: 11400000, guid: fce1cdc0f43d3664dba6bd2d9e6a758d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[2].memory
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[3].moveBase
+    value: 
+    objectReference: {fileID: 11400000, guid: 4c0ed536f8b476f4fb2a365370aca50d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: moveSet.Array.data[3].memory
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: attackGrowth
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: defenseGrowth
+    value: 0.6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: speedGrowth
+    value: 0.6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: leveledMoves.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: leveledMoves.Array.data[0].move
+    value: 
+    objectReference: {fileID: 11400000, guid: 2bb63e9cba8f2484981d095f6a3690cf, type: 2}
+  - target: {fileID: 0}
+    propertyPath: leveledMoves.Array.data[0].level
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: leveledMoves.Array.data[1].move
+    value: 
+    objectReference: {fileID: 11400000, guid: c9d659354621f0e47b647945d4a215e6, type: 2}
+  - target: {fileID: 0}
+    propertyPath: leveledMoves.Array.data[1].level
+    value: 18
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

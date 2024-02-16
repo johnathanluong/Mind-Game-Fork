@@ -1,2 +1,2 @@
-# Mind-Game-Fork
-This is a public fork of Mind Game
+# CAP4053-Mind-Game
+Group 14 for UCF AI for Game Programming

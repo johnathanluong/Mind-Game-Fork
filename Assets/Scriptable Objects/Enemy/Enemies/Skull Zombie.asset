@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587faf2a6be6f62418a5342c86a3ac2e, type: 3}
+  m_Name: Skull Zombie
+  m_EditorClassIdentifier: 
+  EnemyName: Skull Zombie
+  description: 
+  battleSprite: {fileID: -1669354643, guid: 64347cce6a0354b94a30e652a14fca72, type: 3}
+  weaknesss: 2
+  resist: 1
+  baseHP: 50
+  curHP: 0
+  baseAttack: 13
+  baseDefense: 6
+  baseSpeed: 4
+  xpGiven: 16
+  moneyGiven: 4
+  moves:
+  - {fileID: 11400000, guid: f2eeaed93beb4b5498fe827534205f11, type: 2}
+  - {fileID: 11400000, guid: f2eeaed93beb4b5498fe827534205f11, type: 2}
+  - {fileID: 11400000, guid: ade584db9317e3145b9fb4bd4e244d96, type: 2}
+  - {fileID: 11400000, guid: 4d94dc1a4039324448d6cd563f660a53, type: 2}
+  - {fileID: 11400000, guid: 7009ea58efeae844da6ca83c610ec9fb, type: 2}

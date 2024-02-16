@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587faf2a6be6f62418a5342c86a3ac2e, type: 3}
+  m_Name: Barney
+  m_EditorClassIdentifier: 
+  EnemyName: Barney
+  description: Dragon deez nuts
+  battleSprite: {fileID: 937540121, guid: 5d7971a97264d8e49b42faa3885e7135, type: 3}
+  weaknesss: 1
+  resist: 2
+  baseHP: 190
+  curHP: 0
+  baseAttack: 13
+  baseDefense: 10
+  baseSpeed: 8
+  xpGiven: 32
+  moneyGiven: 15
+  moves:
+  - {fileID: 11400000, guid: ea18d3a5a41b17d4eb46d41f454c158b, type: 2}
+  - {fileID: 11400000, guid: ea18d3a5a41b17d4eb46d41f454c158b, type: 2}
+  - {fileID: 11400000, guid: 2ef9ba51851c5324fb8390e3956598dc, type: 2}
+  - {fileID: 11400000, guid: 2ef9ba51851c5324fb8390e3956598dc, type: 2}
+  - {fileID: 11400000, guid: 2ef9ba51851c5324fb8390e3956598dc, type: 2}
+  - {fileID: 11400000, guid: 18e6738288b4aa34192d3e663e8bf0ec, type: 2}
+  - {fileID: 11400000, guid: 18e6738288b4aa34192d3e663e8bf0ec, type: 2}
+  - {fileID: 11400000, guid: 18e6738288b4aa34192d3e663e8bf0ec, type: 2}
+  - {fileID: 11400000, guid: 3f54ec86fae20bc4a921fd6a4ad1dffb, type: 2}
+  - {fileID: 11400000, guid: aff9e86361acabe409bf741741492245, type: 2}
+  - {fileID: 11400000, guid: aff9e86361acabe409bf741741492245, type: 2}

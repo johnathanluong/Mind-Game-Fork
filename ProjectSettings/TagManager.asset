@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - World1Mem
+  - UI
+  - Fader
+  - Follower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collision Tileset
+  - Water
+  - UI
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 897049489
+    locked: 0
+  - name: glow
+    uniqueID: 301421573
+    locked: 0
+  - name: Foreground
+    uniqueID: 460736245
+    locked: 0
+  - name: Player
+    uniqueID: 2578097343
+    locked: 0
+  - name: Above Player
+    uniqueID: 2138885863
+    locked: 0
+  - name: HP
+    uniqueID: 898412609
+    locked: 0
+  - name: Borders
+    uniqueID: 2378301249
+    locked: 0
+  - name: Kill effect
+    uniqueID: 3289009765
+    locked: 0

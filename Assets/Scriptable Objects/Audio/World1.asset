@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2236c0e2ecf6e47a12cd0cca5d95b5, type: 3}
+  m_Name: World1
+  m_EditorClassIdentifier: 
+  id: World1
+  OverWorldAudioClip:
+  - {fileID: 8300000, guid: eeed180430bd9f24c8e39ed79d1be44c, type: 3}
+  - {fileID: 8300000, guid: bd57b8ae7998a764bb4f40c774f80963, type: 3}
+  - {fileID: 8300000, guid: 5a000dbebc47d9e4a85a326d2bc7b1d9, type: 3}
+  - {fileID: 8300000, guid: 127a4b418ca7fba4e8a9e77298fb1ce6, type: 3}
+  - {fileID: 8300000, guid: e6ad4e76424c1364280b55aa0264fa63, type: 3}
+  - {fileID: 8300000, guid: ce4a1d23088f1cf478cfe87250992fc1, type: 3}
+  - {fileID: 8300000, guid: 26ecdafd4528fa34d81c8d6f27a872c5, type: 3}

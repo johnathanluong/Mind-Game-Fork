@@ -1,0 +1,33 @@
+INCLUDE ../globals.ink
+
+
+{memories>=8: ->TrueEnding| ->FalseEnding}
+===FalseEnding===
+Again, congratulations and <i>thank you~</i>#speaker: JJ  #portrait: Jester_neutral #layout: Default #audio: JesterAudio
+You were extremely entertaining...
+But you didn't grab <b>All</b> your memories...
+You may go back to either of the worlds and keep searching if you wish
+But if not, thats fine with me, you must be in a hurry...
+So walk forward and face me if you're content with the memories you got
+...
+It's time for the final game~
+->END
+
+===TrueEnding===
+So you have gained all of your memories#speaker: JJ  #portrait: Jester_neutral #layout: Default #audio: JesterAudio
+I...am rather sad...
+I will have to keep my deal..
+I...
+No...
+NO NO NO NO NO NO NO NO NO
+I can't let you!
+FACE ME NOW!
+I'm not satisfied yet!
+I need to be satisfied thats why I...
+Hero...
+No...
+There is one thing you haven't learned yet.
+<u>Your real name</u>
+ahaha, well face me
+THIS IS THE LAST MEMORY YOU NEED!
+->END

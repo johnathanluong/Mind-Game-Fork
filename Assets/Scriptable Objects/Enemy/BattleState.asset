@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6942de3e1fa3a4340acc5b566c66c506, type: 3}
+  m_Name: BattleState
+  m_EditorClassIdentifier: 
+  useDescription: So this guy has a list of the enemies that is encountered. It is
+    a list<Enemy> which has the stuff that we import into the battle scene. The Enemy
+    class has the enemy's stats including level and moves. This object also handles
+    loading back the scene after the battle.
+  ally: {fileID: 0}
+  townScene: {fileID: 11400000, guid: 5f0a44fc7ee296848afb2c576f5eb00a, type: 2}
+  townScene2: {fileID: 11400000, guid: 8b1c5e56b3d8f0147a0f0510d6c437eb, type: 2}
+  battleCanvas: {fileID: 0}
